@@ -34,7 +34,10 @@ class FileEventHandler(FileSystemEventHandler):
 
 4.通过adb shell input tab 模拟点击选项(自动版的只在小米6上试过)
 
+==============================================
 
+或者使用开源免费软件Fiddler代替Charles。
+设置好信任证书后（为读取https链接内容），使用目录下的FiddlerRule.js文件作为抓包规则即可。
 
 
 
